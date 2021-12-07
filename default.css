@@ -6,7 +6,9 @@ background-size: 100vw 100vh;
 .container{
     background-color:rgb(255, 255,255,0.5) ;
 }
-nav{
+
+/*css for header*/
+header nav{
     background-color: rgb(168, 250, 168);
     border-radius: 4px;
 }
@@ -32,6 +34,8 @@ header h2 {
 header h1{
     text-align: center;
 }
+/*css for main*/
+
 img{
     height: 200px;
     width: auto;
